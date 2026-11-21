@@ -1,0 +1,11 @@
+*.dat
+*.bin
+*.dll
+*.exe
+*.zip
+*.log
+*.pyc
+__pycache__/
+test-kit/
+Updater/
+Firmware/
